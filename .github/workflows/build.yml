@@ -15,7 +15,7 @@ env:
   # Git URL for the libserialport dependency
   LIBSERIALPORT_REPO: "git://sigrok.org/libserialport"
   # Git URL for the libsigrok dependency
-  LIBSIGROK_REPO: "git://sigrok.org/libsigrok"
+  LIBSIGROK_REPO: "https://github.com/zoumi/libsigrok_tcp.git"
   # Git branch for the libsigrok dependency
   LIBSIGROK_BRANCH: "master"
   # Git URL for the libsigrokdecode dependency
